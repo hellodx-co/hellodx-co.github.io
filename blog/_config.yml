@@ -1,13 +1,13 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/blog"
-url: "https://hellodx.co/"
+#baseurl: "/blog"
+#url: "https://hellodx.co/"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
-github:
-  repository: hellodx-co/hellodx-co.github.io
+  #github:
+  #repository: hellodx-co/hellodx-co.github.io
 
 # Plugins
 plugins:
