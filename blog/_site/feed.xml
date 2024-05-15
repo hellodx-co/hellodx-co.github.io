@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 May 2024 17:18:03 -0400</pubDate>
-    <lastBuildDate>Wed, 15 May 2024 17:18:03 -0400</lastBuildDate>
+    <pubDate>Wed, 15 May 2024 17:22:45 -0400</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 17:22:45 -0400</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
     
       <item>
@@ -36,15 +36,7 @@
 
 &lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
 
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;image&quot; class=&quot;custom-image-class&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
 
