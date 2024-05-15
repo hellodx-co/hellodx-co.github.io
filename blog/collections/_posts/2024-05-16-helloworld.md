@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World - Hello DX"
+title: "Hello World .. Hello DX"
 date: 2024-05-15
 authors: ["Kunal Batra"]
 categories: ["DX", "AI"]
@@ -31,7 +31,7 @@ To this end, its main inspiration is the existing conventions for marking up pla
 From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
 
 ![image]({{ site.baseurl }}/assets/images/gen/content/content-4.webp){:class="custom-image-class"}
-{% include framework/shortcodes/image.html src="/assets/images/gen/content/content-3.webp" %}
+![image]({{ site.baseurl }}/assets/images/gen/content/content-3.webp){:class="custom-image-class" title="There are many popular text editors for Markdown" caption="VSCode Editor"}
 
 ### GitHub Flavored Markdown (GFM)
 
