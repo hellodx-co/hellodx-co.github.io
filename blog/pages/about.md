@@ -17,7 +17,6 @@ Often many individuals will work in teams covering different aspects of the desi
 
 User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
 ## Front-end Development
 
@@ -31,7 +30,6 @@ Web designers are expected to have an awareness of usability and if their role i
 
 A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
 
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
 
 ## Process
 
